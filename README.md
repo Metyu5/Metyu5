@@ -37,7 +37,6 @@
 
 ###
 
-<h3 align="center">Snake Animation</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Metyu5/Metyu5/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
