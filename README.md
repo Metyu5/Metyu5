@@ -30,16 +30,23 @@
 
 ###
 
-<h3 align="center">Pacman Contribution Graph</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Metyu5/Metyu5/output/pacman-contribution-graph.svg" alt="Pacman" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Metyu5/Metyu5/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Metyu5/Metyu5/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Metyu5/Metyu5/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Metyu5/Metyu5/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Metyu5/Metyu5/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Metyu5/Metyu5/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Metyu5/Metyu5/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ###
 
