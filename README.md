@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Web & Android Developer who loves turning ideas into clean, functional, and scalable applications.</h1>
+<h1 align="center">Hi 👋, I'm Matthew.</h1>
 
 ###
 
