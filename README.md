@@ -115,9 +115,9 @@
 
 
 ###
-
-![snake gif](https://raw.githubusercontent.com/Metyu5/Metyu5/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Metyu5/Metyu5/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
+</p>
 ###
 
 <div align="center">
