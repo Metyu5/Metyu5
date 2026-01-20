@@ -116,7 +116,7 @@
 
 ###
 
-![snake gif](https://github.com/Metyu5/Metyu5/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Metyu5/Metyu5/output/github-contribution-grid-snake.svg)
 
 ###
 
