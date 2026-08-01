@@ -12,11 +12,11 @@
   <img src="https://img.shields.io/badge/Location-Gorontalo%2C%20Indonesia-06B6D4?style=flat-square" />
 </div>
 
-###
+## 🙋‍♂️ About Me
 
-<img align="right" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
-
-### 🙋‍♂️ About Me
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 500px;" alt="coding animation" />
+</div>
 
 - 🔭 I'm currently working on **web & mobile applications**
 - 🌱 I'm learning **Next.js, Laravel, and Android development**
@@ -25,9 +25,7 @@
 - 📫 Reach me at: **metyutupamahu84@gmail.com**
 - ⚡ Fun fact: **I turn ideas into real products**
 
-<br clear="right"/>
-
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <table align="center">
   <tr>
@@ -97,19 +95,20 @@
   </tr>
 </table>
 
-###
-
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Metyu5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Metyu5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Metyu5&theme=dark&hide_border=false&locale=en" height="150" alt="streak stats" />
 </div>
 
-###
-
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Metyu5/Portofolio">
@@ -132,7 +131,7 @@
   </a>
 </p>
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
   <a href="mailto:metyutupamahu84@gmail.com">
@@ -152,13 +151,11 @@
   </a>
 </div>
 
-###
+## 👾 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Metyu5/Metyu5/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/Metyu5/Metyu5/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" style="max-width: 100%;" />
 </p>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Metyu5.Metyu5&left_text=VISITORS" />
