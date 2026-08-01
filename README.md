@@ -15,15 +15,52 @@
 ## 🙋‍♂️ About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 500px;" alt="coding animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 400px;" alt="coding animation" />
 </div>
 
-- 🔭 I'm currently working on **web & mobile applications**
-- 🌱 I'm learning **Next.js, Laravel, and Android development**
-- 🤖 I love building things that combine **code, IoT, and creativity**
-- 🎨 Occasionally design UI with **Figma, Photoshop & Canva**
-- 📫 Reach me at: **metyutupamahu84@gmail.com**
-- ⚡ Fun fact: **I turn ideas into real products**
+<p align="center">
+  A <strong>Full-Stack Developer</strong> who loves turning ideas into real products —
+  from <strong>web apps</strong> to <strong>mobile apps</strong> and even a bit of <strong>IoT</strong>.
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>👨‍💻</td>
+      <td><b>Role</b></td>
+      <td>Full-Stack Developer</td>
+    </tr>
+    <tr>
+      <td>🚀</td>
+      <td><b>Focus</b></td>
+      <td>Web, Mobile & IoT</td>
+    </tr>
+    <tr>
+      <td>🌱</td>
+      <td><b>Learning</b></td>
+      <td>Next.js, Laravel & Android</td>
+    </tr>
+    <tr>
+      <td>🎨</td>
+      <td><b>Design</b></td>
+      <td>Figma, Photoshop & Canva</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td><b>Location</b></td>
+      <td>Gorontalo, Indonesia 🇮🇩</td>
+    </tr>
+    <tr>
+      <td>📫</td>
+      <td><b>Contact</b></td>
+      <td><a href="mailto:metyutupamahu84@gmail.com">metyutupamahu84@gmail.com</a></td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <i>“You become what you think and believe.”</i>
+</p>
 
 ## 🛠️ Tech Stack
 
