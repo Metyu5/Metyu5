@@ -84,7 +84,7 @@ Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengah
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Metyu5&theme=dracula&hide_border=true&background=0A192F&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&card_width=500" height="165"  />
+  <img src="https://streak-stats.demolab.com?user=Metyu5&theme=dracula&hide_border=true&background=0A192F&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&card_width=500" height="200"  />
 </div>
 
 <br/>
