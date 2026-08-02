@@ -90,13 +90,13 @@ Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengah
 <br/>
 
 ## 🚀 Featured Projects
-
 <div align="center">
 
 | Project | Description |
 |---|---|
 | [**AI Resume Analyzer**](https://github.com/Metyu5/ai-resume-analyzer) | Next.js + TypeScript frontend with a Laravel API backend powered by Gemini |
 | [**AI Resume Analyzer API**](https://github.com/Metyu5/ai-resume-analyzer-api) | Laravel backend service powering the resume analysis engine |
+| [**HMRS**](https://github.com/Metyu5/HMRS) | HR Management System built with Laravel, Vue, and Inertia.js |
 | [**SISPAK Android**](https://github.com/Metyu5/sispak-android) | Android application project |
 | [**SI Budidaya Kakap**](https://github.com/Metyu5/SIBudidayaKakap) | Information system for fish cultivation management |
 | [**WebGami**](https://github.com/Metyu5/WebGami) | Web development project |
