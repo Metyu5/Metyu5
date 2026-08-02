@@ -44,7 +44,7 @@ Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengah
 
 **Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tsx,vue,nextjs,tailwind,bootstrap" />
 </p>
 
 **Mobile**
@@ -57,12 +57,12 @@ Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengah
 
 **Backend**
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,fastapi,apache,nginx" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,fastapi,apache,nginx" />
 </p>
 
 **Database & Infra**
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,git,github" />
 </p>
 
 </td>
@@ -71,7 +71,7 @@ Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengah
 
 **Design & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,gitlab,raspberrypi,arduino" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,arduino" />
 </p>
 
 <br/>
@@ -84,7 +84,7 @@ Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengah
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Metyu5&theme=tokyonight&hide_border=true&background=0A192F&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Metyu5&theme=dracula&hide_border=true&background=0A192F&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&card_width=500" height="165"  />
 </div>
 
 <br/>
