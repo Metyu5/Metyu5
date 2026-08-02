@@ -19,17 +19,20 @@
 
 ## 🙋‍♂️ About Me
 
-```yaml
-name: Matthew
-role: Freelance Web & Android Developer · Information Systems Student
-focus: Frontend-heavy full-stack development, AI automation, content creation
-location: Gorontalo, Indonesia 🇮🇩
-currently_building: Company profile websites (Laravel + Tailwind) for local businesses
-learning: Advanced Next.js patterns, cleaner React Native architecture
-creating: Tech & AI automation content on TikTok and LinkedIn
-contact: metyutupamahu84@gmail.com
-fun_fact: I turn client ideas into shipped products, end to end
-```
+Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengahnya lagi ya harus **di-ship**. Based in Gorontalo, kerja dari mana aja, ngoding kapan aja.
+
+![Role](https://img.shields.io/badge/Role-Freelance%20Web%20%26%20Android%20Dev-0A192F?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Currently%20Shipping-FF7A00?style=for-the-badge&logo=vercel&logoColor=white)
+![Location](https://img.shields.io/badge/Based%20in-Gorontalo%2C%20Indonesia%20🇮🇩-0A192F?style=for-the-badge)
+
+- 🎯 **Fokus utama:** Frontend-heavy full-stack — kalau UI-nya jelek, aku gak bisa tidur nyenyak.
+- 🏗️ **Lagi dikerjain:** Company profile website (Laravel + Tailwind) buat bisnis lokal.
+- 🤖 **Lagi diseriusin:** Ngerangkai workflow AI automation jadi sesuatu yang beneran kepake, bukan cuma demo doang.
+- 📚 **Lagi dipelajari:** Next.js pattern yang lebih advanced, React Native architecture yang gak bikin nangis pas maintain.
+- 🎥 **Side quest:** Bikin konten tech & AI automation di TikTok dan LinkedIn — biar ilmunya gak numpuk sendirian.
+- 📬 **Kontak:** metyutupamahu84@gmail.com
+
+> "Client punya ide, aku yang bikin idenya bisa di-klik."
 
 <br/>
 
