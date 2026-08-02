@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&color=random&height=200&section=header&text=Hi%20there,%20I'm%20Matthew&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Automation%20Creator&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://portofolio-five-steel.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=20&duration=3000&pause=800&color=FF7A00&center=true&vCenter=true&width=600&lines=Building+web+%26+mobile+products+that+ship;Laravel+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Android;Turning+AI+workflows+into+real+automation;Based+in+Gorontalo%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=FF7A00&center=true&vCenter=true&width=600&lines=Building+web+%26+mobile+products+that+ship;Laravel+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Android;Turning+AI+workflows+into+real+automation;Based+in+Gorontalo%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </a>
 
 <br/>
