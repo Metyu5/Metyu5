@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🙋‍♂️ About Me
+##  About Me
 
 Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengahnya lagi ya harus **di-ship**. Based in Gorontalo, kerja dari mana aja, ngoding kapan aja.
 
