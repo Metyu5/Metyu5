@@ -25,14 +25,6 @@ Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengah
 ![Status](https://img.shields.io/badge/Status-Currently%20Shipping-FF7A00?style=for-the-badge&logo=vercel&logoColor=white)
 ![Location](https://img.shields.io/badge/Based%20in-Gorontalo%2C%20Indonesia%20🇮🇩-0A192F?style=for-the-badge)
 
-- 🎯 **Fokus utama:** Frontend-heavy full-stack — kalau UI-nya jelek, aku gak bisa tidur nyenyak.
-- 🏗️ **Lagi dikerjain:** Company profile website (Laravel + Tailwind) buat bisnis lokal.
-- 🤖 **Lagi diseriusin:** Ngerangkai workflow AI automation jadi sesuatu yang beneran kepake, bukan cuma demo doang.
-- 📚 **Lagi dipelajari:** Next.js pattern yang lebih advanced, React Native architecture yang gak bikin nangis pas maintain.
-- 🎥 **Side quest:** Bikin konten tech & AI automation di TikTok dan LinkedIn — biar ilmunya gak numpuk sendirian.
-- 📬 **Kontak:** metyutupamahu84@gmail.com
-
-> "Client punya ide, aku yang bikin idenya bisa di-klik."
 
 <br/>
 
