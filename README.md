@@ -71,7 +71,7 @@ Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengah
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Metyu5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=FF7A00&icon_color=FF7A00&text_color=c9d1d9&bg_color=0A192F" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=STEPHANUS-SAPUTRA-TUPAMAHU&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=FF7A00&icon_color=FF7A00&text_color=c9d1d9&bg_color=0A192F" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEPHANUS-SAPUTRA-TUPAMAHU&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=FF7A00&text_color=c9d1d9&bg_color=0A192F" height="165" />
 </div>
 
