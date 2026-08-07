@@ -107,14 +107,11 @@ Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengah
   <a href="https://portofolio-five-steel.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=FF7A00" />
   </a>
-  <a href="https://www.linkedin.com/in/metyu5">
+  <a href="www.linkedin.com/in/stephanus-saputra-tupamahu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/metyu5">
+  <a href="[https://www.instagram.com/metyu5](https://www.instagram.com/stephnstpmhu/)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/metyu5">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
 
