@@ -106,7 +106,7 @@
   <a href="https://portofolio-five-steel.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=FF7A00" />
   </a>
-  <a href="[https:/.www.linkedin.com/in/stephanus-saputra-tupamahu](https://www.linkedin.com/in/stephanus-saputra-tupamahu/)">
+  <a href="https://.www.linkedin.com/in/stephanus-saputra-tupamahu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="[https://www.instagram.com/STEPHANUS-SAPUTRA-TUPAMAHU](https://www.instagram.com/stephnstpmhu/)">
