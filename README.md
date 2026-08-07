@@ -48,7 +48,7 @@
 
 **Backend**
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,fastapi,apache,nginx" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,apache,nginx" />
 </p>
 
 **Database & Infra**
@@ -62,7 +62,7 @@
 
 **Design & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,arduino" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,vscode" />
 </p>
 
 <br/>
