@@ -17,10 +17,8 @@
 
 <br/>
 
-<div align="center">
+
   About Me
-</div>
-Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengahnya lagi ya harus **di-ship**. Based in Gorontalo, kerja dari mana aja, ngoding kapan aja.
 
 ![Role](https://img.shields.io/badge/Role-Freelance%20Web%20%26%20Android%20Dev-0A192F?style=for-the-badge&logo=github&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Currently%20Shipping-FF7A00?style=for-the-badge&logo=vercel&logoColor=white)
