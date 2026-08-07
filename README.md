@@ -86,13 +86,13 @@ Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengah
 
 | Project | Description |
 |---|---|
-| [**AI Resume Analyzer**](https://github.com/Metyu5/ai-resume-analyzer) | Next.js + TypeScript frontend with a Laravel API backend powered by Gemini |
-| [**AI Resume Analyzer API**](https://github.com/Metyu5/ai-resume-analyzer-api) | Laravel backend service powering the resume analysis engine |
-| [**HMRS**](https://github.com/Metyu5/HMRS) | HR Management System built with Laravel, Vue, and Inertia.js |
-| [**SISPAK Android**](https://github.com/Metyu5/sispak-android) | Android application project |
-| [**SI Budidaya Kakap**](https://github.com/Metyu5/SIBudidayaKakap) | Information system for fish cultivation management |
-| [**WebGami**](https://github.com/Metyu5/WebGami) | Web development project |
-| [**Portfolio**](https://github.com/Metyu5/Portofolio) | My personal developer portfolio |
+| [**AI Resume Analyzer**](https://github.com/STEPHANUS-SAPUTRA-TUPAMAHU/ai-resume-analyzer) | Next.js + TypeScript frontend with a Laravel API backend powered by Gemini |
+| [**AI Resume Analyzer API**](https://github.com/STEPHANUS-SAPUTRA-TUPAMAHU/ai-resume-analyzer-api) | Laravel backend service powering the resume analysis engine |
+| [**HMRS**](https://github.com/STEPHANUS-SAPUTRA-TUPAMAHU/HMRS) | HR Management System built with Laravel, Vue, and Inertia.js |
+| [**SISPAK Android**](https://github.com/STEPHANUS-SAPUTRA-TUPAMAHU/sispak-android) | Android application project |
+| [**SI Budidaya Kakap**](https://github.com/STEPHANUS-SAPUTRA-TUPAMAHU/SIBudidayaKakap) | Information system for fish cultivation management |
+| [**WebGami**](https://github.com/STEPHANUS-SAPUTRA-TUPAMAHU/WebGami) | Web development project |
+| [**Portfolio**](https://github.com/STEPHANUS-SAPUTRA-TUPAMAHU/Portofolio) | My personal developer portfolio |
 
 </div>
 
@@ -110,7 +110,7 @@ Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengah
   <a href="www.linkedin.com/in/stephanus-saputra-tupamahu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://www.instagram.com/metyu5](https://www.instagram.com/stephnstpmhu/)">
+  <a href="[https://www.instagram.com/STEPHANUS-SAPUTRA-TUPAMAHU](https://www.instagram.com/stephnstpmhu/)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
@@ -118,11 +118,11 @@ Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengah
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Metyu5/Metyu5/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/STEPHANUS-SAPUTRA-TUPAMAHU/STEPHANUS-SAPUTRA-TUPAMAHU/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Metyu5.Metyu5&left_color=0A192F&right_color=FF7A00&left_text=Profile%20Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=STEPHANUS-SAPUTRA-TUPAMAHU.STEPHANUS-SAPUTRA-TUPAMAHU&left_color=0A192F&right_color=FF7A00&left_text=Profile%20Views" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F,FF7A00&height=100&section=footer" width="100%"/>
