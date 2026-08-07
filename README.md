@@ -72,11 +72,11 @@ Freelance dev yang percaya kalau ide client itu cuma setengah jalan — setengah
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Metyu5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=FF7A00&icon_color=FF7A00&text_color=c9d1d9&bg_color=0A192F" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metyu5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=FF7A00&text_color=c9d1d9&bg_color=0A192F" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEPHANUS-SAPUTRA-TUPAMAHU&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=FF7A00&text_color=c9d1d9&bg_color=0A192F" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Metyu5&theme=dracula&hide_border=true&background=0A192F&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=STEPHANUS-SAPUTRA-TUPAMAHU&theme=dracula&hide_border=true&background=0A192F&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" width="50%" />
 </div>
 
 <br/>
